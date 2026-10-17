@@ -6,6 +6,8 @@
 
 3.Touch_Panel：触控面版，主控芯片STC8H8K64U;
 
+4.Rain_Sensor：太阳能低功耗雨感，主控芯片STC8G1K08A-8PIN
+
 /*Projects Undertaken During University Studies*/
 
 1.Pulse_Module：脉冲模块（多模式脉冲发生器），主控芯片N32G401;
